@@ -1,0 +1,6 @@
+Login as admin and teacher 
+	Email: admin@gmail.com , teacher name + @gmail.com
+	Password: 11111111
+Login as normal user (student)
+	Email: lyden@gmail.com	
+	Password: 11111111
